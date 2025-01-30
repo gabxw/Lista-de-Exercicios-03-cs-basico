@@ -1,4 +1,4 @@
-# 📚 Lista de Exercícios 02 - C#
+# 📚 Lista de Exercícios 03 - C#
 
 Este repositório contém uma lista de exercícios em C# desenvolvidos para reforçar conceitos básicos de operações matemáticas e manipulação de números.  
 
